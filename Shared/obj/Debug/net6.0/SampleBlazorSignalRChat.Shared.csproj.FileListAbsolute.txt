@@ -1,0 +1,12 @@
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\bin\Debug\net6.0\SampleBlazorSignalRChat.Shared.deps.json
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\bin\Debug\net6.0\SampleBlazorSignalRChat.Shared.dll
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\bin\Debug\net6.0\SampleBlazorSignalRChat.Shared.pdb
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\obj\Debug\net6.0\SampleBlazorSignalRChat.Shared.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\obj\Debug\net6.0\SampleBlazorSignalRChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\obj\Debug\net6.0\SampleBlazorSignalRChat.Shared.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\obj\Debug\net6.0\SampleBlazorSignalRChat.Shared.AssemblyInfo.cs
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\obj\Debug\net6.0\SampleBlazorSignalRChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\obj\Debug\net6.0\SampleBlazorSignalRChat.Shared.dll
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\obj\Debug\net6.0\refint\SampleBlazorSignalRChat.Shared.dll
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\obj\Debug\net6.0\SampleBlazorSignalRChat.Shared.pdb
+C:\Users\Andre\source\repos\SampleBlazorSignalRChat\SampleBlazorSignalRChat\Shared\obj\Debug\net6.0\ref\SampleBlazorSignalRChat.Shared.dll
